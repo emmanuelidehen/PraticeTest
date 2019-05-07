@@ -1,8 +1,5 @@
 
-import java.io.*;
-import java.awt.print.*;
-import java.util.stream.*;
-import java.util.function.*;
+
 
 
 public class Human {
@@ -31,22 +28,5 @@ public class Human {
 		System.out.println("Hey "+ name + "look i'm eating");
 	}
 	
-	public static void main() {
-		
-		Human emma = null;
-		
-		
-		emma.age = 24;
-		emma.height = 100;
-		emma.name = "emmanuel";
-		
-		emma.spaek();
-		emma.jump();
-		emma.eating();
-		
-		
-		
-		
-	}
 	
 }

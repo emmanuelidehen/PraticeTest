@@ -9,7 +9,9 @@ public class Human {
 	
 	public Human()
 	{
-		
+		age = 0;
+		name = "No name";
+		height = 0;
 	}
 	
 	public void spaek()

@@ -9,9 +9,9 @@ public static void main(String[] args) {
 Human emma = new Human();
 		
 		
-		emma.age = 24;
-		emma.height = 100;
-		emma.name = "emmanuel";
+		//emma.age = 24;
+	//	emma.height = 100;
+	//	emma.name = "emmanuel";
 		
 		emma.spaek();
 		emma.jump();

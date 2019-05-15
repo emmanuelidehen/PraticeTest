@@ -4,8 +4,8 @@
 
 public class Human {
 	String name = null;
-	int age;
-	int height;
+	 private int age;
+	private int height;
 	
 	public Human()
 	{
